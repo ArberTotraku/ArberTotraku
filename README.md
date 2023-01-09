@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning BackEnd
 - 👯 I’m looking to collaborate on Web developing
@@ -8,4 +8,4 @@
 - 📫 How to reach me: linkedin.com/ArberTotraku
 - 😄 Pronouns: Arber
 - ⚡ Fun fact: I am funny 
--->
+
